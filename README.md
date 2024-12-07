@@ -56,7 +56,7 @@ flutter run
 
 Use the device selector in your IDE or flutter devices to choose a specific emulator or connected device.
 
-📂 Project Structure
+# 📂 Project Structure
 
 wach-nakool/
 ├── lib/                     # Main source code
@@ -69,24 +69,17 @@ wach-nakool/
 ├── pubspec.yaml             # Project dependencies and configurations
 ├── test/                    # Unit and widget tests(to be implemented)
 
-🌐 Key Features
+# 🌐 Key Features
 
-	•	Ingredient Input: Add the ingredients you have to get recipe suggestions.
-	•	Low-Cost Recipe Filter: Inspired by “Oum Walid.”
-	•	Advanced Search: Filter by cuisine, dietary preferences, or preparation time.
-	•	Save Favorites: Bookmark recipes for quick access.
-	•	Shopping List Generator: Plan ahead with a generated shopping list for missing ingredients.
-	•	User Ratings and Reviews: Share your experience and learn from others.
-	•	Nutritional Information: Basic nutrition details for each recipe.
+- **Ingredient Input**: Add the ingredients you have to get recipe suggestions.
+- **Low-Cost Recipe Filter**: Inspired by "Oum Walid."
+- **Advanced Search**: Filter by cuisine, dietary preferences, or preparation time.
+- **Save Favorites**: Bookmark recipes for quick access.
+- **Shopping List Generator**: Plan ahead with a generated shopping list for missing ingredients.
+- **User Ratings and Reviews**: Share your experience and learn from others.
+- **Nutritional Information**: Basic nutrition details for each recipe.
 
-🤝 Contributing
 
-Contributions are welcome!
-	1.	Fork the repository
-	2.	Create your feature branch (git checkout -b feature/AmazingFeature)
-	3.	Commit your changes (git commit -m 'Add some AmazingFeature')
-	4.	Push to the branch (git push origin feature/AmazingFeature)
-	5.	Open a pull request
 
 📜 License
 
