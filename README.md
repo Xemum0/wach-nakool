@@ -61,13 +61,14 @@ Use the device selector in your IDE or flutter devices to choose a specific emul
 wach-nakool/
 ├── lib/                     # Main source code
 │   ├── main.dart            # Entry point of the application
-│   ├── styles/             # Reusable UI styling
+│   ├── styles/              # Reusable UI styling
 │   ├── screens/             # App screens (e.g., Home, Recipe Suggestions)
-│   ├── data/              # Data models
-│  
+│   ├── data/                # Data models
+│
 ├── assets/                  # App assets (images, fonts, etc.)
 ├── pubspec.yaml             # Project dependencies and configurations
-├── test/                    # Unit and widget tests(to be implemented)
+├── test/                    # Unit and widget tests (to be implemented)
+
 
 # 🌐 Key Features
 
@@ -89,4 +90,10 @@ Youcef Mhammdi Bouzina
 	•	Email: youcef.mhammdi.bouzina@ensia.edu.dz
 
 Made with ❤️ for creativity, resourcefulness, and sustainability!
+
+
+
+
+
+
 
