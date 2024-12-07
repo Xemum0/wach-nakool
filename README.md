@@ -1,5 +1,3 @@
-Here’s a professionally styled README.md for your project Wach Nakool:
-
 # 🥘 **Wach Nakool**  
 
 A smart platform that suggests low-cost recipes tailored to the ingredients you have, minimizing food waste and maximizing creativity, inspired by the beloved "Oum Walid" cooking style.  
