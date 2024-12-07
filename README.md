@@ -35,35 +35,30 @@ Many individuals struggle to use leftover ingredients or find affordable recipes
 
 ---
 
-## 🚀 **Getting Started**
+## 🚀 Getting Started
 
-### Prerequisites
-
-Ensure you have the following installed:
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install)
-- Dart version compatible with Flutter
-
-### Installation
-
-1. **Clone the Repository**
+### 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/Xemum0/wach-nakool.git
    cd wach-nakool
+   ```
 
-2.	Install Dependencies
-```
+### 2. **Install Dependencies**
 
-    flutter pub get
+   ```bash
+   flutter pub get
+   ```
 
-3.	Run the App
+### 3. **Run the App**
 
-    flutter run
+   ```bash
+   flutter run
+   ```
 
-Use the device selector in your IDE or flutter devices to choose a specific emulator or connected device.
+Use the device selector in your IDE or `flutter devices` to choose a specific emulator or connected device.
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 - **wach-nakool/**
   - **lib/** - Main source code
