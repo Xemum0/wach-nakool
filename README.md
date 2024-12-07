@@ -79,8 +79,6 @@ wach-nakool/
 - **User Ratings and Reviews**: Share your experience and learn from others.
 - **Nutritional Information**: Basic nutrition details for each recipe.
 
-
-
 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
