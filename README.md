@@ -58,7 +58,7 @@ Many individuals struggle to use leftover ingredients or find affordable recipes
 
 Use the device selector in your IDE or `flutter devices` to choose a specific emulator or connected device.
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 - **wach-nakool/**
   - **lib/** - Main source code
