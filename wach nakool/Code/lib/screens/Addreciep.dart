@@ -87,7 +87,7 @@ class _AddOnereciepState extends State<AddOnereciep> {
   Future<void> _pickImages() async {
     try {
       final List<XFile> images = await _picker.pickMultiImage();
-      if (images != null && images.length <= 3) {
+      if (images.length <= 3) {
         int totalSize = 0;
         for (var image in images) {
           File imageFile = File(image.path);

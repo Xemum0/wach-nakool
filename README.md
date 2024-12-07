@@ -49,17 +49,17 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/wach-nakool.git
+   git clone https://github.com/Xemum0/wach-nakool.git
    cd wach-nakool
 
-   2.	Install Dependencies
-   ```
+2.	Install Dependencies
+```
 
-flutter pub get
+    flutter pub get
 
-    3.	Run the App
+3.	Run the App
 
-flutter run
+    flutter run
 
 Use the device selector in your IDE or flutter devices to choose a specific emulator or connected device.
 
